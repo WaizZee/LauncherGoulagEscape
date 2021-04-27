@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "GoulagEscape",
+      "name" : "GoulagEscape",
+      "version" : "2021-04-27-22-38-07",
+      "location" : "goulagescape.json",
+      "priority" : 0
+    }
+  ]
+}
